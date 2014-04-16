@@ -1,0 +1,15 @@
+Release Notes:
+
+Release_version		1.0 
+Contributor:		drag00n
+Changes:			Inital code released with following functions
+						View local_host space
+						View remote_host space
+						Query System Name,
+						Query DeviceID/attached Drives
+						Query Size of Disk 
+						Query Free Space (GB)
+						Query Percent of Free Space 
+						Export as CSV
+						Export as Grid
+					

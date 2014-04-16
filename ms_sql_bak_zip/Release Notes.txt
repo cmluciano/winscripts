@@ -1,0 +1,8 @@
+Release Notes:
+
+Release_version		1.0 
+Contributor:		drag00n
+Changes:			Inital code released with following functions
+						Backup SQL databases from file and output as .bak files
+						ZIP files into folders by time and database
+						Delete original files			

@@ -1,0 +1,17 @@
+Release Notes:
+
+Release_version		1.0 
+Contributor:		drag00n
+Changes:			Inital code released with following functions
+						Check Data Server Stats
+							OS Name, OS Version, System Type, Processor #, Total Physical Memory
+							SQL edition, version, and collation
+							Server Roles
+							Disable UAC
+						Check Web Server Stats
+							OS Name, OS Version, System Type, Processor #, Total Physical Memory
+							SPN of service accounts
+							IIS version
+							Java version
+							Check server roles
+							Disable UAC
